@@ -5,10 +5,6 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "VRM4U",
-			"Enabled": true
-		},
-		{
 			"Name": "MultiUserClient",
 			"Enabled": true
 		}
